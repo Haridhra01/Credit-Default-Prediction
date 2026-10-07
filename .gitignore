@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+
+# Environment Variables
+backend/.env
+
+# Database
+*.db
+
+# VS Code
+.vscode/
+
+# Python cache
+.pytest_cache/
+
+# Uploaded files
+backend/uploads/
+
+# Generated reports
+backend/reports/
+
+# Trained models
+backend/trained_models/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
