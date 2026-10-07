@@ -318,6 +318,7 @@ The backend provides REST APIs for dataset processing, authentication, predictio
 
 ## Project Structure
 
+```text
 Credit-Default-Prediction/
 │
 ├── backend/
@@ -367,6 +368,7 @@ Credit-Default-Prediction/
 ├── reports/
 ├── .gitignore
 └── README.md
+```
 
 ## Installation and Setup
 ### Prerequisites
